@@ -1,2 +1,1 @@
-# text-summarizer
-# text-summarizer
+Text summarizer coded with Python.
